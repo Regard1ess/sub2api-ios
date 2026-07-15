@@ -1,6 +1,6 @@
 # Sub2API iOS
 
-Native SwiftUI iOS app for the Sub2API admin console.
+Native SwiftUI iOS app for the Sub2API admin console and works on iPhones that are running iOS 16 or higher. 
 
 ## Requirements
 
