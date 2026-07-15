@@ -28,3 +28,4 @@ xcodebuild -project ios/Sub2API.xcodeproj -scheme Sub2API -destination 'platform
 - The app stores server profiles in `UserDefaults`.
 - Admin API keys are stored in Keychain.
 - The React Native / Expo source remains in the repository as legacy reference during migration.
+- Please report an issue if you found one, advice is also accepted.
